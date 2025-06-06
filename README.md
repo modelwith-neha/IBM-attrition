@@ -1,8 +1,8 @@
 # 📊 Employee Attrition Prediction
 
 **Domain**: Human Resources Analytics  
-**Dataset Used**: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-**Problem Type**: Classification and Clustering 
+**Dataset Used**: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset   
+**Problem Type**: Classification and Clustering   
 **Tools**: Python (Pandas, Scikit-learn), Jupyter Notebook, SMOTE, Plotly, Tableau
 
 ---
